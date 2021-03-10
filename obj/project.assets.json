@@ -5613,11 +5613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectCode\\.Net 5\\APIservice\\APIservice.csproj",
+      "projectUniqueName": "D:\\Repositories\\Develop\\APIservice\\APIservice.csproj",
       "projectName": "APIservice",
-      "projectPath": "D:\\ProjectCode\\.Net 5\\APIservice\\APIservice.csproj",
+      "projectPath": "D:\\Repositories\\Develop\\APIservice\\APIservice.csproj",
       "packagesPath": "C:\\Users\\d.prawit.TMBGROUP\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectCode\\.Net 5\\APIservice\\obj\\",
+      "outputPath": "D:\\Repositories\\Develop\\APIservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
