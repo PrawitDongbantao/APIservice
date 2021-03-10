@@ -48,9 +48,14 @@ namespace APIservice
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "APIservice v1"));
+
+                
             }
 
             app.UseHttpsRedirection();
+
+
+
 
             app.UseRouting();
 
